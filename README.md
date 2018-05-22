@@ -146,7 +146,7 @@ grid-area: <grid-line> [ / <grid-line> ]{0,3}
 
 ### grid Alignment
 
-####justify-content
+#### justify-content
 
 ```
 justify-content: center | start | end | space-between | space-around | space-evenly
@@ -196,7 +196,7 @@ justify-self: center | start | end | stretch
 
 
 
-####align-self
+#### align-self
 
 ```
 align-self: center | start | end | stretch
