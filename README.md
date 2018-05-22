@@ -47,7 +47,7 @@ grid-template: none | [ <‘grid-template-rows’> / <‘grid-template-columns�
 
 ​	`none`：设置3个属性的初始值为none。
 
-####grid-template-areas
+#### grid-template-areas
 
 ​	`grid-template-areas`为对应的栅格命名。
 
@@ -66,7 +66,7 @@ grid-template-areas: "logo stats"
 
 
 
-###grid-grap
+### grid-grap
 
 ​	是grid-template-grap和 grid-row-gap简写方式。指定栅格间的间隙，栅格边缘不适用。属性值可为任意css长度值或百分比。
 
@@ -223,7 +223,7 @@ align-self: center | start | end | stretch
 
 
 
-##Function
+## Function
 
 
 
