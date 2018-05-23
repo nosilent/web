@@ -6,26 +6,7 @@
 
 ## grid
 
-```
-.grid {
-  display: grid;
-  width: 750px;
-  grid-template-columns: 150px 1fr 2fr;
-}
-```
 
-![1526954755083](C:\Users\ADMINI~1\AppData\Local\Temp\1526954755083.png)
-
-
-
-```
-.grid {
-  display: grid;
-  grid-template-columns: min-content max-content auto;
-}
-```
-
-![1526954820135](C:\Users\ADMINI~1\AppData\Local\Temp\1526954820135.png)
 
 ### track-repeat
 
