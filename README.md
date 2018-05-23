@@ -252,7 +252,7 @@ background-image: linear-gradient(to right, silver,white 50px,white calc(100% - 
 width: calc(100% / 6 * 5);
 width: calc(100% - 20px)
 ```
-<<<<<<< HEAD
+
 
 
 ### hsl() hsla()
